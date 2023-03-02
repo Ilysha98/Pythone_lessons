@@ -1,0 +1,5 @@
+a, b, c, d, e, f = input( " Введите цифры ")
+n = int(a) + int(b) + int(c)
+m = int(d) + int(e) + int(f)
+if n == m: print("С ч а с т л и в ы й - б и л е т")
+else: print(" О б ы ч н ы й ")
